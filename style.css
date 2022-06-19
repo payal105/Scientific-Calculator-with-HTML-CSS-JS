@@ -50,3 +50,8 @@ body{
                 -5px -5px 8px #ffffff;
 }
 
+@media screen and (min-width: 300px) {
+    .container{
+        width: 80%;
+    }
+}
